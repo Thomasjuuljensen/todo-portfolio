@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "./build",
+    "target": "es2016",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "rootDirs": ["src"],
+    "lib": ["es2020"],
+    "moduleResolution": "node",
+    "types": ["node"]
+  }
+}
